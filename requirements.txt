@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+statsmodels
+requests
+requests_cache
+retry_requests
+python-dateutil
