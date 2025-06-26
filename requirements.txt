@@ -1,10 +1,11 @@
 pandas
-numpy
 matplotlib
-scikit-learn
-xgboost
 statsmodels
+scikit-learn
+prophet
+numpy
 requests
-requests_cache
-retry_requests
+requests-cache
+retry-requests
 python-dateutil
+xgboost
